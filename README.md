@@ -2,7 +2,7 @@
 # this codes are full of hackerrank c programming answers
 # all are my own code
 # code will be uploaded daily
-#copyrights papers
+# copyrights papers
 MIT License
 
 Copyright (c) 2022 AHAMED THAIYUB A
